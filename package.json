@@ -1,0 +1,26 @@
+{
+  "name": "front-end_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudewalking/FrontEndTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudewalking/FrontEndTesting/issues"
+  },
+  "homepage": "https://github.com/dudewalking/FrontEndTesting#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^0.3.5"
+  }
+}
